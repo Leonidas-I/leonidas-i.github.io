@@ -9,7 +9,7 @@
 /* Halcyonic */
 .check-list li {
   padding: 0.25em 0;
-  font-size: 0.8em;
+  font-size: 0.75em;
   font-weight: 500;
   color: darkorange;
   /* background: url("images/icon-checkmark.png") 0px 1.05em no-repeat; */
@@ -48,7 +48,7 @@
   top: 65%;
   left: 50%;
   color: black;
-  font-size: 0.8em;
+  font-size: 0.75em;
   font-weight: bold;
   text-align: left;
   width: 90%;
@@ -224,7 +224,7 @@ textarea {
 
 .row {
   display: flex;
-  flex-wrap: column wrap;
+  flex-wrap: wrap;
   box-sizing: border-box;
   align-items: stretch;
 }
